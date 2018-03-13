@@ -2,7 +2,6 @@ package com.github.stepankalensky.adventura.ui;
 
 
 import java.util.Scanner;
-
 import com.github.stepankalensky.adventura.logika.IHra;
 /**
  *  Class TextoveRozhrani
