@@ -1,4 +1,4 @@
-package com.github.stepankalensky.adventura.uiText;
+package com.github.stepankalensky.adventura.ui;
 
 
 import java.util.Scanner;
