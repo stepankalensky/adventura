@@ -1,5 +1,7 @@
 package com.github.stepankalensky.adventura.ui;
 
+import com.github.stepankalensky.adventura.logika.IHra;
+
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
@@ -24,5 +26,9 @@ public class HomeController extends GridPane {
 		System.out.println(textVstup.getText());
 		
 	}
+	public void inicializuj(IHra hra) {
+		
+	}
+	
 
 }
