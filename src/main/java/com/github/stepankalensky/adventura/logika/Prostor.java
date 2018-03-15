@@ -208,4 +208,13 @@ public class Prostor {
         }
         return nalezenaVec;
     }
+
+@Override
+ public String toString() {
+	return getNazev();
+}
+	
+	
+	
+	
 }
